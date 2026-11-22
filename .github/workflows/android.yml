@@ -29,10 +29,7 @@ jobs:
           cache: gradle
 
       - name: Set up Android SDK
-        uses: android-actions/setup-android@v3
-
-      - name: Accept Android SDK licenses
-        run: yes | sdkmanager --licenses
+        uses: android-actions/setup-android@v4
 
       - name: Install required Android SDK, NDK and CMake
         run: |
