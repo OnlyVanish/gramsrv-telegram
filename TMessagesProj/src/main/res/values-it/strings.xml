@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="AppName">Telegram</string>
-    <string name="AppNameBeta">Telegram Beta</string>
+    <string name="AppName">Voxa</string>
+    <string name="AppNameBeta">Voxa Beta</string>
     <string name="LanguageName">Italiano</string>
     <string name="English">Inglese</string>
     <string name="LanguageNameInEnglish">Italian</string>
@@ -437,21 +437,21 @@
     <string name="LanguageUnsupportedError">Lingua non trovata.</string>
     <string name="LanguageSame">Stai già usando questa lingua (**%1$s**). Puoi cambiare la tua lingua in qualsiasi momento nelle Impostazioni.</string>
     <string name="LanguageUnknownCustomAlert">Sfortunatamente, questa lingua personalizzata (**%1$s**) non contiene dati per Telegram Android.</string>
-    <string name="AskAQuestionInfo">Per favore ricorda che il supporto di Telegram è gestito da volontari. Proviamo a rispondere quanto prima, ma potrebbe volerci del tempo.\n\nDai un\'occhiata alle <![CDATA[<a href=\"https://telegram.org/faq/it#domande-generali\">FAQ di Telegram</a>]]>: contengono risposte a quasi tutte le domande e suggerimenti importanti per <![CDATA[<a href=\"https://telegram.org/faq/it#risoluzione-dei-problemi\">risolvere i problemi</a>]]>.</string>
+    <string name="AskAQuestionInfo">Per favore ricorda che il supporto di Telegram è gestito da volontari. Proviamo a rispondere quanto prima, ma potrebbe volerci del tempo.\n\nDai un\'occhiata alle <![CDATA[<a href=\"https://voxa.ir">FAQ di Telegram</a>]]>: contengono risposte a quasi tutte le domande e suggerimenti importanti per <![CDATA[<a href=\"https://voxa.ir">risolvere i problemi</a>]]>.</string>
     <string name="AskButton">Chiedi ai volontari</string>
     <string name="TelegramFAQ">FAQ Telegram</string>
     <string name="TelegramFaq">FAQ Telegram</string>
     <string name="TelegramFeatures">Funzioni di Telegram</string>
-    <string name="TelegramFeaturesUrl">https://t.me/TelegramTipsIT</string>
+    <string name="TelegramFeaturesUrl">https://voxa.ir</string>
     <string name="AddAccount">Aggiungi account</string>
     <string name="SelectAccount">Seleziona Account</string>
-    <string name="TelegramFaqUrl">https://telegram.org/faq/it</string>
+    <string name="TelegramFaqUrl">https://voxa.ir</string>
     <string name="PrivacyPolicy">Informativa sulla Privacy</string>
     <string name="TermsOfService">Termini di Servizio</string>
     <string name="TermsOfServiceLogin">Iscrivendoti, accetti\ni *Termini di Servizio*.</string>
-    <string name="PrivacyPolicyUrl">https://telegram.org/privacy</string>
-    <string name="TermsOfServiceUrl">https://telegram.org/tos</string>
-    <string name="WebAppDisclaimerUrl">https://telegram.org/tos/mini-apps</string>
+    <string name="PrivacyPolicyUrl">https://voxa.ir</string>
+    <string name="TermsOfServiceUrl">https://voxa.ir</string>
+    <string name="WebAppDisclaimerUrl">https://voxa.ir</string>
     <string name="DeleteLocalizationTitle">Elimina la lingua</string>
     <string name="DeleteLocalizationText">Vuoi davvero eliminare la lingua **%1$s**?</string>
     <string name="IncorrectLocalization">File di traduzione non valido</string>
@@ -713,8 +713,8 @@
     <string name="AuthAnotherClientScan">Scansiona codice QR</string>
     <string name="AuthAnotherClientNotFound">Nessun token di autenticazione trovato</string>
     <string name="AuthAnotherClientOk">Autenticazione riuscita</string>
-    <string name="AuthAnotherClientDownloadClientUrl">https://desktop.telegram.org/</string>
-    <string name="AuthAnotherWebClientUrl">https://web.telegram.org/</string>
+    <string name="AuthAnotherClientDownloadClientUrl">https://voxa.ir</string>
+    <string name="AuthAnotherWebClientUrl">https://voxa.ir</string>
     <string name="AuthAnotherClientInfo1">Scarica Telegram sul tuo computer da *desktop.telegram.org*</string>
     <string name="AuthAnotherClientInfo2">Avvia Telegram Desktop per ottenere il codice QR.</string>
     <string name="AuthAnotherClientInfo3">Scansiona il codice QR per connettere il tuo account.</string>
@@ -758,7 +758,7 @@
     <string name="ChannelDescriptionChanged">Descrizione canale aggiornata.</string>
     <string name="CheckPhoneNumber">%1$s è ancora il tuo numero?</string>
     <string name="CheckPhoneNumberInfo">Tieni aggiornato il tuo numero per poter sempre accedere a Telegram. **Scopri di più**</string>
-    <string name="CheckPhoneNumberLearnMoreUrl">https://telegram.org/faq/it#d-ho-un-nuovo-numero-di-telefono-cosa-faccio</string>
+    <string name="CheckPhoneNumberLearnMoreUrl">https://voxa.ir</string>
     <string name="CheckPhoneNumberYes">Sì</string>
     <string name="CheckPhoneNumberNo">No</string>
     <!--media view-->
